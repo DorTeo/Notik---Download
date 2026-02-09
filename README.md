@@ -1,4 +1,4 @@
-# <img width="1024" height="1024" alt="NoTikLogo" src="https://github.com/user-attachments/assets/89a8ab21-de6d-4813-910d-a21d79a6c586" />
+# <img width="160" height="160" alt="NoTikLogo" src="https://github.com/user-attachments/assets/89a8ab21-de6d-4813-910d-a21d79a6c586" />
 # Notik---Download
 Watch shared TikTok videos without the app.
 
