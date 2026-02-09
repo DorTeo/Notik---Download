@@ -30,13 +30,14 @@ Powered by a native video engine for smooth, fast, and reliable viewing.
 
 Simply copy the link, paste it into NoTik, and enjoy TikTok videos in a clean, distraction-free environment.
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 
-  <img width="120" height="270" alt="image1" src="https://github.com/user-attachments/assets/a052714e-d3b9-483c-82c2-4e1f532c5664" />
-  <img width="120" height="270" alt="image2" src="https://github.com/user-attachments/assets/a02b7298-ac78-47ff-b55a-a01935728b8e" />
-  <img width="120" height="270" alt="image3" src="https://github.com/user-attachments/assets/45c8d813-4afa-4392-af34-826a9f58bedc" />
+  <img width="300" height="670" alt="image1" src="https://github.com/user-attachments/assets/a052714e-d3b9-483c-82c2-4e1f532c5664" />
+  <img width="300" height="670" alt="image2" src="https://github.com/user-attachments/assets/a02b7298-ac78-47ff-b55a-a01935728b8e" />
+  <img width="300" height="670" alt="image3" src="https://github.com/user-attachments/assets/45c8d813-4afa-4392-af34-826a9f58bedc" />
 
 </div>
+
 
 
 © 2026 NoTik. All rights reserved. TikTok is a registered trademark of ByteDance. This app is not affiliated with, endorsed by, or sponsored by TikTok or ByteDance.
