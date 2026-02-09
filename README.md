@@ -1,10 +1,17 @@
-# <img width="160" height="160" alt="NoTikLogo" src="https://github.com/user-attachments/assets/89a8ab21-de6d-4813-910d-a21d79a6c586" />
-# Notik---Download
-Watch shared TikTok videos without the app.
+<div align="center">
 
-Download apk:
+<img width="160" height="160" alt="NoTikLogo" src="https://github.com/user-attachments/assets/89a8ab21-de6d-4813-910d-a21d79a6c586" />
+
+# NoTik
+
+### Watch shared TikTok videos without the app.
+
+<br>
 
 [![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/DorTeo/Notik---Download/releases/download/apk/NoTik.apk)
+
+</div>
+
 
 
 Enjoy TikTok content on your own terms. NoTik is a minimalist media player built for people who don’t have TikTok installed but still want to watch videos their friends share.
