@@ -17,7 +17,7 @@
 Enjoy TikTok content on your own terms. NoTik is a minimalist media player built for people who don’t have TikTok installed but still want to watch videos their friends share.
 
 No account required
-Watch videos instantly — no login, no sign-up, no hassle.
+Watch shared TikTok videos instantly no login, no sign-up, no hassle.
 
 No TikTok app needed
 Open and view any shared TikTok link, even without the official app.
