@@ -35,6 +35,8 @@ Simply copy the link, paste it into NoTik, and enjoy TikTok videos in a clean, d
   <img width="300" height="670" alt="image1" src="https://github.com/user-attachments/assets/a052714e-d3b9-483c-82c2-4e1f532c5664" />
   <img width="300" height="670" alt="image2" src="https://github.com/user-attachments/assets/a02b7298-ac78-47ff-b55a-a01935728b8e" />
   <img width="300" height="670" alt="image3" src="https://github.com/user-attachments/assets/45c8d813-4afa-4392-af34-826a9f58bedc" />
+  <img width="300" height="670" alt="image4" src="https://github.com/user-attachments/assets/27f3bd24-9aea-4e53-80bb-c0780063d6b5" />
+
 
 </div>
 
